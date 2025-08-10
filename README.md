@@ -10,8 +10,6 @@
 - You can install .deb using Filza File Manager
 - Deb inject to .ipa using Sideloadly or Azule
 
-![Preview](/1.png)![Preview](/2.png)
-
 ---
 
 ##### Разблокировка TikTok на iPhone (не вынимая симку) + смена регионов + публикация видео + прямой эфир + лайки и комментарии
@@ -24,6 +22,7 @@
 * [Loon](#Loon)
 * [Surge](#Surge)
 * [Egern](#Egern)
+* [Shadowrocket](#Shadowrocket)
 ---
 ### <a id="Подготовка"> Подготовка </a>
 
@@ -195,6 +194,34 @@ https://raw.githubusercontent.com/Semporia/TikTok-Unlock/master/Surge/TikTok.lis
 ```
 
 5. Добавьте `MitM Hostname:` *.tiktokv.com, *.byteoversea.com, *.tik-tokapi.com.
+
+---
+
+### <a id="Shadowrocket"> Shadowrocket </a>
+
+
+1. Откройте`Shadowrocket` - `Настройка` - `default.conf` - `ⓘ` - `Расшифровка HTTPS` - Создайте и установите сертификат.
+
+2. Откройте Настройки - Установите профиль - Перейдите во вкладку "Об этом ус-ве" - "Доверие сертификатам" - Вкл.
+
+3. Вернитесь в `Shadowrocket` - `Настройка` - `➕` - Выбери один из модулей, который доступен ниже:
+
+
+**Южная Корея**
+```
+https://raw.githubusercontent.com/Lizynz/TikTok-iOS/refs/heads/main/Shadowrocket/TiKTok-KR.conf
+```
+
+**Япония**
+```
+https://raw.githubusercontent.com/Lizynz/TikTok-iOS/refs/heads/main/Shadowrocket/TiKTok-JP.conf
+```
+
+4. Нажмите `ⓘ` - `Правило` - `➕` - `Тип: RULE-SET` - `Политика: PROXY` - `URL`
+
+```
+https://raw.githubusercontent.com/Semporia/TikTok-Unlock/master/Surge/TikTok.list
+```
 
 ---
 ### <a id="Не могу смотреть TikTok"> Не могу смотреть TikTok </a>
