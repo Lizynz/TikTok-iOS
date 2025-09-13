@@ -187,7 +187,7 @@ https://raw.githubusercontent.com/Lizynz/TikTok-iOS/main/Surge%2BEgern/TiKTok-GB
 https://raw.githubusercontent.com/Lizynz/TikTok-iOS/main/Surge%2BEgern/TiKTok-US.sgmodule
 ```
 
-4. Вернитесь в `Tools` - `Rules` - `➕` - Добавьте
+4. Вернитесь в `Tools` - `Proxy` - `Add Rule` - Добавьте
 
 ```
 https://raw.githubusercontent.com/Semporia/TikTok-Unlock/master/Surge/TikTok.list
