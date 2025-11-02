@@ -204,7 +204,9 @@ https://raw.githubusercontent.com/Semporia/TikTok-Unlock/master/Surge/TikTok.lis
 
 2. Откройте Настройки - Установите профиль - Перейдите во вкладку "Об этом ус-ве" - "Доверие сертификатам" - Вкл.
 
-3. Вернитесь в `Shadowrocket` - `Настройка` - `➕` - Выбери один из модулей, который доступен ниже:
+3. Включите переключатель `Расшифровка HTTPS`
+
+4. Вернитесь в `Shadowrocket` - `Настройка` - `➕` - Выбери один из модулей, который доступен ниже:
 
 
 **Южная Корея**
@@ -217,7 +219,7 @@ https://raw.githubusercontent.com/Lizynz/TikTok-iOS/refs/heads/main/Shadowrocket
 https://raw.githubusercontent.com/Lizynz/TikTok-iOS/refs/heads/main/Shadowrocket/TiKTok-JP.conf
 ```
 
-4. Нажмите `ⓘ` - `Правило` - `➕` - `Тип: RULE-SET` - `Политика: PROXY` - `URL`
+5. Нажмите `ⓘ` - `Правило` - `➕` - `Тип: RULE-SET` - `Политика: PROXY` - `URL`
 
 ```
 https://raw.githubusercontent.com/Semporia/TikTok-Unlock/master/Surge/TikTok.list
